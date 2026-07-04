@@ -1,0 +1,25 @@
+[0m19:25:17.473110 [debug] [MainThread]: Got an exception trying to initialize tracking
+
+
+============================== 19:25:17.530762 | b870c5b8-1d8c-452f-b317-097f6a0041fd ==============================
+[0m19:25:17.530762 [info ] [MainThread]: Running with dbt=1.11.11
+[0m19:25:17.531324 [debug] [MainThread]: running dbt with arguments {'version_check': 'True', 'no_print': 'None', 'static_parser': 'True', 'warn_error_options': 'WarnErrorOptionsV2(error=[], warn=[], silence=[])', 'target_path': 'None', 'printer_width': '80', 'write_json': 'True', 'empty': 'None', 'log_cache_events': 'False', 'introspect': 'True', 'cache_selected_only': 'False', 'fail_fast': 'False', 'debug': 'False', 'log_format': 'default', 'profiles_dir': 'C:\\Users\\doguk\\.dbt', 'send_anonymous_usage_stats': 'True', 'quiet': 'False', 'warn_error': 'None', 'partial_parse': 'True', 'invocation_command': 'dbt init --skip-profile-setup airbnb', 'use_colors': 'True', 'indirect_selection': 'eager', 'use_experimental_parser': 'False', 'log_path': 'logs'}
+[0m19:25:17.720890 [debug] [MainThread]: Starter project path: D:\dbt_project\course\.venv\Lib\site-packages\dbt\include\starter_project
+[0m19:25:17.732874 [info ] [MainThread]: 
+Your new dbt project "airbnb" was created!
+
+For more information on how to configure the profiles.yml file,
+please consult the dbt documentation here:
+
+  https://docs.getdbt.com/docs/configure-your-profile
+
+One more thing:
+
+Need help? Don't hesitate to reach out to us via GitHub issues or on Slack:
+
+  https://community.getdbt.com/
+
+Happy modeling!
+
+[0m19:25:17.733728 [debug] [MainThread]: Command `dbt init` succeeded at 19:25:17.733649 after 0.31 seconds
+[0m19:25:17.733933 [debug] [MainThread]: Flushing usage events
